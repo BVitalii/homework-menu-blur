@@ -22,7 +22,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var blurView: UIVisualEffectView!
     
     
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         title = "Меню"
