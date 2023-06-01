@@ -56,9 +56,9 @@
 		FA5642F32A1EA792007B50E7 /* blurView */ = {
 			isa = PBXGroup;
 			children = (
+				FA5642F82A1EA792007B50E7 /* ViewController.swift */,
 				FA5642F42A1EA792007B50E7 /* AppDelegate.swift */,
 				FA5642F62A1EA792007B50E7 /* SceneDelegate.swift */,
-				FA5642F82A1EA792007B50E7 /* ViewController.swift */,
 				FA5642FA2A1EA792007B50E7 /* Main.storyboard */,
 				FA5642FD2A1EA795007B50E7 /* Assets.xcassets */,
 				FA5642FF2A1EA795007B50E7 /* LaunchScreen.storyboard */,
